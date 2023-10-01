@@ -1,26 +1,45 @@
-<h1 style="border: none; margin-bottom: 0;">Whaddup, I am <a href="https://github.com/LeonBerner" target="_blank">Leon</a>! <img src="./gifs/person-finger-guns.gif" width="32"></h1>
+<!--
+light-color => #f6f7eb
+redish-color => #e94f37
+dark-color => #393e41
+-->
 
-<img src="./gifs/rainbow-line.gif" height="20" width="100%">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+<!-- in your header -->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?&logo=LinkedIn&style=plastic)](https://www.linkedin.com/in/leon-torgersen-berner)
+<div style="color: #f6f7eb; font-family: 'Space Mono', monospace; background-color: #">
+
+<h1 style="border-color: #f6f7eb">
+    <img src="./gifs/person-finger-guns-color.gif" width="32">
+    Leon Torgersen Berner
+</h1>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41)](https://github.com/LeonBerner)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f7eb?&logo=LinkedIn&style=plastic&logoColor=393e41)](https://www.linkedin.com/in/leon-torgersen-berner)
 
 Welcome to my little corner here on GitHub!
 
-I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of **[Oslo, Norway](https://maps.app.goo.gl/95ZW4F5bALLebRMm9)**
+I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of **Oslo, Norway**
 
 During the day, you'll find me quietly tinkering with code at **Schibsted Norge SMB**, trying to make sense of this digital puzzle
 
+<hr style="border-color: #f6f7eb" />
+
 ### Languages and technologies
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&style=plastic)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=plastic)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=plastic)
-![React](https://img.shields.io/badge/-React-000?&logo=React&style=plastic)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ&style=plastic)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=plastic)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&style=plastic)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&style=plastic)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&style=plastic)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=plastic)
-![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer&style=plastic)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=plastic)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=plastic)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&style=plastic&color=f6f7eb&logoColor=393e41)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=plastic&color=f6f7eb&logoColor=393e41)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch&style=plastic&color=f6f7eb&logoColor=393e41)
+![React](https://img.shields.io/badge/-React-000?&logo=React&style=plastic&color=f6f7eb&logoColor=393e41)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ&style=plastic&color=f6f7eb&logoColor=393e41)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=plastic&color=f6f7eb&logoColor=393e41)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&style=plastic&color=f6f7eb&logoColor=393e41)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&style=plastic&color=f6f7eb&logoColor=393e41)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&style=plastic&color=f6f7eb&logoColor=393e41)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=plastic&color=f6f7eb&logoColor=393e41)
+![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer&style=plastic&color=f6f7eb&logoColor=393e41)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=plastic&color=f6f7eb&logoColor=393e41)
+![GitHub](https://img.shields.io/badge/-GitHub-393e41?&logo=GitHub&style=plastic&color=f6f7eb&logoColor=393e41)
+
+</div>

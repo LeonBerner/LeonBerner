@@ -12,9 +12,7 @@ dark-color => #393e41
 [![GitHub](https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41)](https://github.com/LeonBerner)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f7eb?&logo=LinkedIn&style=plastic&logoColor=393e41)](https://www.linkedin.com/in/leon-torgersen-berner)
 
-<p><code style="color: #f6f7eb">Welcome to my little corner here on GitHub!</code></p>
-<p><code style="color: #f6f7eb">I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of <strong>Oslo, Norway</strong></code></p>
-<p><code style="color: #f6f7eb">During the day, you'll find me quietly tinkering with code at <strong>Schibsted Norge SMB</strong>, trying to make sense of this digital puzzle</code></p>
+<p><code style="color: #f6f7eb">Welcome to my little corner here on GitHub!<br/></br/>I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of <strong>Oslo, Norway</strong>. During the day, you'll find me quietly tinkering with code at <strong>Schibsted Norge SMB</strong>, trying to make sense of this digital puzzle</code></p>
 
 <h3><code style="color: #f6f7eb">Languages and technologies</code></h3>
 

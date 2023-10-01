@@ -4,14 +4,9 @@ redish-color => #e94f37
 dark-color => #393e41
 -->
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
-<!-- in your header -->
+<div style="color: #f6f7eb;">
 
-<div style="color: #f6f7eb; font-family: 'Space Mono', monospace;">
-
-<h1 style="border-color: #f6f7eb">
+<h1 style="border-color: #f6f7eb; color: #f6f7eb">
     <img src="./gifs/person-finger-guns-color.gif" width="32">
     Whaddup, I am Leon!
 </h1>

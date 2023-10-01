@@ -1,4 +1,4 @@
-<h1 style="border: none; margin-bottom: 0;">Whaddup, I am <a href="https://github.com/LeonBerner" target="_blank">Leon</a>! <img src="./gifs/person-finger-guns-color.gif" width="32"></h1>
+<h1 style="border: none; margin-bottom: 0;">Whaddup, I am <a href="https://github.com/LeonBerner" target="_blank">Leon</a>! <img src="./gifs/person-finger-guns.gif" width="32"></h1>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41)](https://github.com/LeonBerner)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f7eb?&logo=LinkedIn&style=plastic&logoColor=393e41)](https://www.linkedin.com/in/leon-torgersen-berner)

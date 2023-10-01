@@ -4,22 +4,22 @@ redish-color => #e94f37
 dark-color => #393e41
 -->
 
-<h1 style="border-color: #f6f7eb; color: #f6f7eb">
-    <img src="./gifs/person-finger-guns-color.gif" width="32">
-    Whaddup, I am Leon!
+<h1 style="border-color:">
+    <img style="margin-right: 10px;" src="./gifs/person-finger-guns-color.gif" width="32">
+    <code style="color: #f6f7eb">Whaddup, I am Leon!</code>
 </h1>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41)](https://github.com/LeonBerner)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f7eb?&logo=LinkedIn&style=plastic&logoColor=393e41)](https://www.linkedin.com/in/leon-torgersen-berner)
 
 <code style="color: #f6f7eb">
-    <p>Welcome to my little corner here on GitHub!</p>
-    <p>I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of <strong>Oslo, Norway</strong></p>
-    <p>During the day, you'll find me quietly tinkering with code at <strong>Schibsted Norge SMB</strong>, trying to make sense of this digital puzzle</p>
+<p>Welcome to my little corner here on GitHub!</p>
+<p>I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of <strong>Oslo, Norway</strong></p>
+<p>During the day, you'll find me quietly tinkering with code at <strong>Schibsted Norge SMB</strong>, trying to make sense of this digital puzzle</p>
 </code>
 
 <code style="color: #f6f7eb">
-    <h3>Languages and technologies</h3>
+<h3>Languages and technologies</h3>
 </code>
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&style=plastic&color=f6f7eb&logoColor=393e41)

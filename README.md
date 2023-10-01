@@ -8,17 +8,21 @@ dark-color => #393e41
     <img src="./gifs/person-finger-guns-color.gif" width="32" style="margin-right: 10px;">
     Whaddup, I am Leon!
 </h1>
+
 <a href="https://github.com/LeonBerner">
     <img alt="PHP" src="https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41">
 </a>
 <a href="https://www.linkedin.com/in/leon-torgersen-berner">
     <img alt="PHP" src="https://img.shields.io/badge/-LinkedIn-f6f7eb?&logo=LinkedIn&style=plastic&logoColor=393e41">
 </a>
+
 <p>
     Welcome to my little corner here on GitHub!<br/>
     I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of <strong>Oslo, Norway</strong>. During the day, you'll find me quietly tinkering with code at <strong>Schibsted Norge SMB</strong>, trying to make sense of this digital puzzle
 </p>
+
 <h3>Languages and technologies</h3>
+
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?&logo=php&style=plastic&color=f6f7eb&logoColor=393e41">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=plastic&color=f6f7eb&logoColor=393e41">
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch&style=plastic&color=f6f7eb&logoColor=393e41">

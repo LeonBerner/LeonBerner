@@ -2,7 +2,7 @@
 
 <img src="./gifs/rainbow-line.gif" height="20" width="100%">
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?&logo=LinkedIn&style=plastic)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?&logo=LinkedIn&style=plastic)](https://www.linkedin.com/in/leon-torgersen-berner)
 
 Welcome to my little corner here on GitHub!
 

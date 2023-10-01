@@ -5,9 +5,7 @@
 
 Welcome to my little corner here on GitHub!
 
-I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of **Oslo, Norway**
-
-During the day, you'll find me quietly tinkering with code at **Schibsted Norge SMB**, trying to make sense of this digital puzzle
+I'm just your regular friendly neighborhood full-stack developer hailing from the charming city of **Oslo, Norway**. During the day, you'll find me quietly tinkering with code at **Schibsted Norge SMB**, trying to make sense of this digital puzzle
 
 ### Languages and technologies
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&style=plastic&color=f6f7eb&logoColor=393e41)

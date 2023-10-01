@@ -9,12 +9,12 @@ dark-color => #393e41
 <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
 <!-- in your header -->
 
-<div style="color: #f6f7eb; font-family: 'Space Mono', monospace;">
-
 <h1 style="border-color: #f6f7eb">
     <img src="./gifs/person-finger-guns-color.gif" width="32">
     Whaddup, I am Leon!
 </h1>
+
+<div style="color: #f6f7eb; font-family: 'Space Mono', monospace;">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41)](https://github.com/LeonBerner)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f6f7eb?&logo=LinkedIn&style=plastic&logoColor=393e41)](https://www.linkedin.com/in/leon-torgersen-berner)

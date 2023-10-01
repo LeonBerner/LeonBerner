@@ -12,7 +12,7 @@ dark-color => #393e41
 <div style="color: #f6f7eb; font-family: 'Space Mono', monospace; background-color: #">
 
 <h1 style="border-color: #f6f7eb">
-    <img src="https://raw.githubusercontent.com/LeonBerner/LeonBerner/main/gifs/person-finger-guns-color.gif" width="32">
+    <img src=".gifs/person-finger-guns-color.gif" width="32">
     Whaddup, I am Leon!
 </h1>
 

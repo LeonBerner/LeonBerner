@@ -12,8 +12,8 @@ dark-color => #393e41
 <div style="color: #f6f7eb; font-family: 'Space Mono', monospace; background-color: #">
 
 <h1 style="border-color: #f6f7eb">
-    <img src="./gifs/person-finger-guns-color.gif" width="32">
     Whaddup, I am Leon!
+    <img src="./gifs/person-finger-guns-color.gif" width="32">
 </h1>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-f6f7eb?&logo=GitHub&style=plastic&logoColor=393e41)](https://github.com/LeonBerner)

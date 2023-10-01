@@ -4,8 +4,6 @@ redish-color => #e94f37
 dark-color => #393e41
 -->
 
-<div style="color: #f6f7eb;">
-
 <h1 style="border-color: #f6f7eb; color: #f6f7eb">
     <img src="./gifs/person-finger-guns-color.gif" width="32">
     Whaddup, I am Leon!
@@ -36,5 +34,3 @@ During the day, you'll find me quietly tinkering with code at **Schibsted Norge 
 ![Composer](https://img.shields.io/badge/-Composer-000?&logo=Composer&style=plastic&color=f6f7eb&logoColor=393e41)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&style=plastic&color=f6f7eb&logoColor=393e41)
 ![GitHub](https://img.shields.io/badge/-GitHub-393e41?&logo=GitHub&style=plastic&color=f6f7eb&logoColor=393e41)
-
-</div>
